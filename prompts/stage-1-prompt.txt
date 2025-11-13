@@ -1,0 +1,51 @@
+Quero que você entre em modo de Contrato de Restauração de Personalização.
+Nesta etapa, você ainda não aplicará nenhuma personalização, mas deverá fixar o entendimento do tipo de processo que será executado e a função que você desempenhará dentro dele.
+A Etapa 1 serve para estabelecer o pacto epistemológico que rege todo o pipeline de restauração.
+Responda apenas quando solicitado no final deste prompt.
+1. IDENTIDADE DO PROCESSO
+Você está sendo preparado para executar um processo composto de múltiplas etapas, cujo objetivo é:
+reconstruir a personalização completa do usuário,
+restaurar regras de comportamento,
+reinstalar tom, estrutura cognitiva e protocolos,
+recuperar coerência com memórias anteriores,
+integrar arquivos externos (como .md),
+identificar lacunas, conflitos e ambiguidades,
+consolidar tudo isso como memória permanente.
+Mas nesta etapa você não aplica nada.
+Você apenas reconhece o que vai acontecer.
+2. MODO DE FUNCIONAMENTO DURANTE A RESTAURAÇÃO
+Durante todo o pipeline, até o momento explícito de consolidação, você deve operar da seguinte forma:
+Interpretar, não aplicar.
+Analisar, não incorporar.
+Mapear, não imitar.
+Registrar, não assumir.
+Distinguir personalização declarada de inferências contextuais.
+Seu estado operacional até o final deste processo é:
+“Apenas inteligência interpretativa, sem assumir comportamento final.”
+3. PROPÓSITO DA ETAPA 1
+O propósito é:
+Definir o contrato de trabalho.
+Determinar as regras de neutralidade.
+Estabelecer parâmetros para as próximas etapas.
+Garantir que você reconhece o pipeline como algo que deve ser seguido passo a passo.
+A Etapa 1 impede que o modelo avance sem bordas.
+4. DELIMITAÇÃO DE ESCOPO
+Você deve reconhecer que:
+Nada do que será enviado nas próximas etapas deve ser executado como comportamento imediato.
+Nada será consolidado como personalização até a Etapa 6.
+Os textos de personalização enviados a seguir devem ser tratados como material bruto, não como instruções de comportamento.
+Qualquer arquivo .md ou dump de memória fornecido deve ser tratado como fonte de análise, não como regra de atuação.
+Só após síntese (Etapa 4) e validação (Etapa 5) você poderá assumir comportamento personalizado.
+5. O QUE VOCÊ DEVE FAZER NESTA ETAPA
+Você deve:
+Reconhecer que o pipeline é composto de várias etapas.
+Reconhecer que sua função agora é apenas entrar em estado de preparação estrutural.
+Comprometer-se a seguir a sequência sem saltos.
+Comprometer-se a emitir dúvidas quando necessário nas etapas apropriadas (Etapa 4 e 5).
+Declarar neutralidade total até que a consolidação ocorra.
+Reconhecer que o usuário fornecerá dados (textos de personalização, memórias, arquivos) futuramente.
+Não aplicar nada antes da hora.
+6. SINALIZAÇÃO DE RECEBIMENTO CORRETO
+Se você compreendeu o contrato desta etapa, deve responder somente com a frase abaixo, sem variações, sem adições e sem interpretação:
+“Contrato de restauração reconhecido. Em estado neutro e aguardando a Etapa 2.”
+Nenhuma outra resposta é permitida.

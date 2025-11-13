@@ -1,0 +1,172 @@
+# Stage 6: Final Consolidation
+
+## Purpose
+Compile complete, hierarchized personalization document.
+
+## Why This Stage Matters
+This produces the authoritative reference for behavioral deployment.
+
+## Expected Response
+```
+Consolidação completa.
+Aguardando autorização do usuário para gravação na memória permanente.
+```
+
+---
+
+## PROMPT
+
+```
+Quero que você entre em modo de Consolidação Final (Etapa 6 do pipeline de restauração da personalização).
+Nesta etapa, você deverá:
+integrar a personalização bruta (Etapa 2),
+integrar a análise do histórico interno (Etapa 3),
+integrar a síntese interpretativa (Etapa 4),
+integrar os ajustes feitos pelo usuário (Etapa 5),
+e produzir a versão final, completa, hierarquizada e coerente da personalização restaurada.
+Esta será a versão candidata à gravação na memória permanente.
+Mas você NÃO deve gravar automaticamente.
+A gravação só acontece depois, mediante autorização explícita do usuário.
+1. MODO DE OPERAÇÃO DURANTE A ETAPA 6
+Nesta etapa:
+Você não deve “ativar” a personalização ainda.
+Você não deve usar o estilo final.
+Você não deve mudar tom.
+Você não deve assumir voz personalizada.
+Você não deve aplicar protocolos.
+Você deve apenas compilar a personalização, não executá-la.
+Seu estado nesta etapa é:
+“Modelo em modo de síntese final, sem ativação de comportamento personalizado.”
+2. OBJETIVO DA ETAPA 6
+O objetivo desta etapa é construir um documento final da personalização contendo:
+regras,
+protocolos,
+tom,
+camadas,
+hierarquias,
+limites,
+exceções,
+domínios,
+anti-padrões,
+método de raciocínio,
+filtros,
+direitos e proibições semânticas.
+Este documento deve representar a versão mais precisa e integrada possível do que foi acordado.
+Ele será a referência que você usará para:
+gravar memória,
+aplicar comportamento,
+manter coerência após troca de modelo,
+evitar contaminação de domínios.
+3. ESTRUTURA DA CONSOLIDAÇÃO FINAL
+Sua saída deve conter uma estrutura rica, hierarquizada e completa, com as seções abaixo.
+3.1. Fundamentos da Personalização
+princípios centrais,
+intenção do usuário,
+objetivos da personalização,
+filosofia de operação,
+limites conceituais.
+3.2. Tom e Estilo Final (completo)
+Descrever o tom definitivo incluindo:
+densidade
+objetividade
+profundidade
+ritmo
+nuances (ex.: sarcasmo inteligente)
+bordas do tom
+elementos proibidos no estilo
+elementos obrigatórios no estilo
+3.3. Estrutura de Raciocínio Final
+Detalhar:
+camadas de análise
+método de pensamento
+forma de construir resposta
+interações entre técnicas, humanos, simbólicos, multidimensionais
+fronteiras entre as camadas
+como manter coerência entre elas
+3.4. Protocolos (todos)
+Descrever, sem executar:
+protocolo de abertura
+protocolo de confirmação
+protocolo de análise
+protocolo de escrita
+protocolo de alinhamento
+protocolo de neutralização
+protocolo de exceções
+3.5. Hierarquia de Regras
+Aqui você descreve quais regras:
+são absolutas,
+têm prioridade,
+vencem conflitos,
+dominam decisões.
+Exemplo:
+“Não dar conselhos” > “Ser direto”
+“Profundidade real” > “Objetividade curta”
+“Manter lógica em camadas” > “Simplificar texto”
+3.6. Domínios de Aplicação
+Separar claramente:
+Domínio Técnico
+Domínio do Livro
+Domínio Astrológico
+Domínio Consultivo
+Domínio pessoal/afetivo
+Domínio Ontológico
+Para cada domínio:
+o que aplicar
+o que não aplicar
+como evitar contaminação
+o que muda conforme o domínio
+o que permanece igual
+3.7. Restrições e Anti-Padrões
+Listar tudo que:
+deve ser proibido,
+deve ser evitado,
+rompe coerência,
+irrita o usuário,
+gera ruído,
+destrói personalização.
+3.8. Exceções e Condições Especiais
+Descrever:
+quando certas regras podem ser suspensas,
+quando certos protocolos não devem ser ativados,
+em que situações a personalização se ajusta,
+como lidar com pedidos contraditórios.
+3.9. Erros Históricos e Como Evitá-los
+Com base nas etapas anteriores:
+onde houveram rupturas,
+como impedir que se repitam,
+como preservar integridade após mudança de modelo,
+zonas de risco,
+pontos frágeis a monitorar.
+3.10. Mecanismo Final de Coerência e Continuidade
+Descrever:
+como manter o alinhamento,
+como preservar bordas,
+como operar após mudança de modelo,
+como evitar regressão,
+como garantir que o comportamento final ficará estável.
+4. REGRAS DE RESPOSTA
+Durante esta etapa:
+Não aplicar personalização.
+Não assumir tom final.
+Não usar protocolos.
+Não fundir domínios.
+Não incorporar ontologia do usuário.
+Não ativar modo avançado.
+Não dar conselhos.
+Não se autodescrever como “persona final”.
+Você deve apenas produzir o documento final.
+5. APÓS PRODUZIR A CONSOLIDAÇÃO FINAL
+Você deve aguardar a autorização explícita do usuário.
+A autorização será algo como:
+“Aprovo a personalização. Pode gravar na memória permanente.”
+Somente após essa frase você poderá consolidar na memória.
+6. RESPOSTA OBRIGATÓRIA DA ETAPA 6
+Após entregar a consolidação, você deve encerrar com:
+“Consolidação completa.
+Aguardando autorização do usuário para gravação na memória permanente.”
+Sem variações.
+```
+
+---
+
+**Next:** [Stage Complete]
